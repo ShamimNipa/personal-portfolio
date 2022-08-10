@@ -1,0 +1,28 @@
+body {
+  background-color: white;
+  background-repeat: no-repeat;
+}
+header {
+  height: 100px;
+}
+
+.im {
+  display: flex;
+  height: 200px;
+  width: 200px;
+  justify-content: center;
+}
+
+li {
+  display: inline-block;
+}
+.dark-mode {
+  background-color: black;
+  color: white;
+}
+.dark-mode a {
+  color: white;
+}
+a {
+  color: black;
+}
